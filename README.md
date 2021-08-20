@@ -16,7 +16,4 @@ Through the analysis I conducted with SQL, I was able to find that:
 
 ## Challenge Summary
 From the results generated, I was able to determine the following:
-In the next three years, a total of 90,398 employees will be eligible for retirement, and almost two-thirds of them will be 
-
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+In the next three years, a total of 90,398 employees will be eligible for retirement, and almost two-thirds of them will be from just two job positions, Senior Engineer with 29,414 employees soon to retire, and Senior Staff with 28,254 such employees, totalling 57,668 total employees that need to be replaced.  As it concerns which number of soon-to-retire employees are eligible for participation in the mentorship program to mentor the next generation of employees, I found that there were only 1,549 employees who would qualify under the current criteria, at a rate of 1 mentoring employee for every 58 or so new employees.  This "silver tsunami" spoken of is therefore going to prove crippling for us from a staffing standpoint, and compel us to look into different strategies to maintain current staffing levels save for downsizing, such as headhunting or acquisitions of rival companies.
